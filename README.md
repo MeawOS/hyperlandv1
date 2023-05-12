@@ -51,7 +51,8 @@ thunar thunar-archive-plugin file-roller
 ```sh 
 git clone https://github.com/MeawOS/hyperlandv1 
 cd hyprlandv1
-rsync -avxHAXP --exclude '.git*' .* ~/
+rm -rf README.md
+sudo mv * ~/
 ```
 
 #### As fonts i'm using **Cartograph CF** (patched with nerdfont) It's a licensed font, then select any font you like :3
