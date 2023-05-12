@@ -25,7 +25,7 @@ makepkg -si
 #### Installing needed dependencies 📦
 	
 ```sh
-paru -S hyprland-git polkit-kde-agent dunst grimblast rofi rofi-emoji       \
+paru -S hyprland-git polkit-kde-agent dunst grimblast rofi rofi-emoji wezterm       \
 wl-clipboard wf-recorder wlogout grimblast-git hyprpicker-git hyprpaper-git \
 swaybg fnm ffmpegthumbnailer tumbler wtype colord      \
 imagemagick swaylock-effects qt5-wayland qt6-wayland ripgrep waybar-hyprland-git
