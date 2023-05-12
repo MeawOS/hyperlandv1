@@ -64,6 +64,7 @@ unzip '*.zip' -d $HOME/Downloads/nerdfonts/
 rm -rf *.zip
 sudo cp -R $HOME/Downloads/nerdfonts/ /usr/share/fonts/
 ```
+####################################################################
 mkdir -p $HOME/Downloads/nerdfonts/
 cd $HOME/Downloads/
 curl -LO https://es.bestfonts.pro/fonts_files/600c045b6a101229c67525c5/font.zip
